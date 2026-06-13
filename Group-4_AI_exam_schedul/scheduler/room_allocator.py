@@ -33,3 +33,9 @@ for room in room_rows:
         chosen = candidates[0]
         used.add((slot_id, chosen['room_id']))
         allocations.append({
+            'course_id': course_id,
+            'timeslot_id': slot_id,
+            'room_id': chosen['room_id'],
+            'room_name': chosen['room_name'],
+            'student_count': student_count,
+            'room_capacity': int(chosen['capacity']),
