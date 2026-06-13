@@ -17,3 +17,15 @@ for course_id, slot_id in sorted(schedule.items()):
         student_count = int(counts.get(course_id, 0))
         exam_type = str(course_meta.get(course_id, {}).get('exam_type', '')).lower()
         candidates = []
+for room in room_rows:
+            room_id = room['room_id']
+            if (slot_id, room_id) in used:
+                continue
+            if int(room['capacity']) < student_count:
+                continue
+            # If practical/lab appears, prefer lab-like rooms, otherwise allow all rooms.
+            room_type = str(room.get('room_type', '')).lower()
+            if 'lab' in exam_type and 'lab' not in room_type:
+                continue
+            candidates.append(room)
+        if not candidates:
