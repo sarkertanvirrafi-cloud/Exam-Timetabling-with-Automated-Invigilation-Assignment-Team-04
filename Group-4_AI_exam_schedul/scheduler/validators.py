@@ -30,5 +30,9 @@ def validate_all(
                 seen[slot] = course
 
 
+    for (slot, room), group in room_allocations.groupby(['timeslot_id', 'room_id']):
+        if len(group) > 1:
+            errors['room_conflicts'].append(f'Room {room} used {len(group)} times at {slot}')
+
 
     
