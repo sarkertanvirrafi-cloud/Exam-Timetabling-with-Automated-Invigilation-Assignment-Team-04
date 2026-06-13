@@ -28,7 +28,7 @@ def _score(schedule: dict[str, str], graph: dict[str, set[str]], enrollments: pd
             if count > 1:
                 penalty += (count - 1) * 10
 
-    # Soft penalty: too many morning exams.
+    # Soft penalty:  too many morning exams.
     for slot in schedule.values():
         if str(slot_name.get(slot, '')).lower() == 'morning':
             penalty += 1
