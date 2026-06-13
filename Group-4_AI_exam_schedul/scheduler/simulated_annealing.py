@@ -34,3 +34,14 @@ def _score(schedule: dict[str, str], graph: dict[str, set[str]], enrollments: pd
         if str(slot_name.get(slot, '')).lower() == 'morning':
             penalty += 1
     return penalty
+    
+def optimize_schedule(
+    initial_schedule: dict[str, str],
+    graph: dict[str, set[str]],
+    enrollments: pd.DataFrame,
+    timeslots: pd.DataFrame,
+    iterations: int = 8000,
+    initial_temp: float = 100.0,
+    cooling_rate: float = 0.995,
+    seed: int = 42,
+
