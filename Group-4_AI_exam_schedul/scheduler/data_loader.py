@@ -31,3 +31,20 @@ def load_dataset(data_dir: str | Path) -> dict[str, pd.DataFrame]:
     _normalize(dfs)
     return dfs
 
+def _normalize(dfs: dict[str, pd.DataFrame]) -> None:
+    for df in dfs.values():
+        for col in df.columns:
+            if df[col].dtype == object:
+                df[col] = df[col].astype(str).str.strip()
+                
+
+    for col in ['year_level', 'credit', 'exam_duration_hours']:
+        if col in dfs['courses'].columns:
+            dfs['courses'][col] = pd.to_numeric(dfs['courses'][col], errors='coerce').fillna(0).astype(int)
+    dfs['rooms']['capacity'] = pd.to_numeric(dfs['rooms']['capacity'], errors='coerce').fillna(0).astype(int)
+    dfs['teachers']['max_duties'] = pd.to_numeric(dfs['teachers']['max_duties'], errors='coerce').fillna(0).astype(int)
+    dfs['teacher_availability']['available'] = pd.to_numeric(dfs['teacher_availability']['available'], errors='coerce').fillna(0).astype(int)
+    dfs['invigilation_rules']['required_invigilators'] = pd.to_numeric(
+        dfs['invigilation_rules']['required_invigilators'], errors='coerce'
+    ).fillna(1).astype(int)
+
