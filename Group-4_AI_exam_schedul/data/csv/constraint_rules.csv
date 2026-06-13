@@ -1,0 +1,10 @@
+rule_id,rule_type,rule_name,description
+HC01,Hard,Student Conflict,A student cannot have two exams in the same timeslot.
+HC02,Hard,Room Capacity,Assigned room capacity must be greater than or equal to student count.
+HC03,Hard,Room Clash,A room cannot host more than one exam in the same timeslot.
+HC04,Hard,Own Course Invigilation,A teacher cannot invigilate their own course exam.
+HC05,Hard,Teacher Timeslot Clash,A teacher cannot be assigned to two halls in the same timeslot.
+HC06,Hard,Teacher Availability,Unavailable teachers cannot be assigned duty.
+SC01,Soft,Teacher Load Balance,Teacher duties should be distributed as evenly as possible.
+SC02,Soft,Back-to-back Exams,Avoid consecutive exams for the same student where possible.
+SC03,Soft,Same-day Exams,Avoid multiple exams for the same student on the same day where possible.

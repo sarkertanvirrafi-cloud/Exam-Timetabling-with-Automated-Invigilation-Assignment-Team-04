@@ -1,0 +1,4 @@
+Algorithm,Role,Description,Parameters,Project Use
+Greedy / DSATUR,Baseline scheduling,Creates a fast conflict-free initial exam timetable using graph coloring.,degree_ordering=True; saturation_degree=True,Exam scheduling
+Simulated Annealing,Schedule optimization,Improves the Greedy timetable by reducing soft penalties and escaping local optimum.,initial_temp=1000; cooling_rate=0.995; max_iterations=50000,Exam schedule improvement
+CSP Backtracking,Constraint + invigilation module,Validates hard constraints and assigns rooms/invigilators using constraint-based search.,mrv=True; forward_checking=True; load_balance=True,Room allocation + invigilation
