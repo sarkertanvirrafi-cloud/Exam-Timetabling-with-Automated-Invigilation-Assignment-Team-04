@@ -59,3 +59,12 @@ candidates.sort(key=lambda t: (duties[t], t))
         for tid in assigned:
             busy.add((tid, slot_id))
             duties[tid] += 1
+rows.append({
+            'course_id': course_id,
+            'timeslot_id': slot_id,
+            'room_id': exam['room_id'],
+            'required_invigilators': required,
+            'invigilator_1': assigned[0] if len(assigned) > 0 else '',
+            'invigilator_2': assigned[1] if len(assigned) > 1 else '',
+            'invigilator_3': assigned[2] if len(assigned) > 2 else '',
+        })
