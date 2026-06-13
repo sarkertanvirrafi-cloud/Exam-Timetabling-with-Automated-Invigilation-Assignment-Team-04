@@ -12,3 +12,8 @@ def allocate_rooms(
     used: set[tuple[str, str]] = set()
     room_rows = rooms.sort_values(['capacity', 'room_id']).to_dict('records')
     allocations = []
+
+for course_id, slot_id in sorted(schedule.items()):
+        student_count = int(counts.get(course_id, 0))
+        exam_type = str(course_meta.get(course_id, {}).get('exam_type', '')).lower()
+        candidates = []
