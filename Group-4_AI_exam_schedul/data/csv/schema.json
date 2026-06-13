@@ -1,0 +1,33 @@
+{
+  "dataset_name": "University Exam Dataset - 3 Algorithm Version",
+  "algorithms": [
+    "Greedy / DSATUR",
+    "Simulated Annealing",
+    "CSP Backtracking"
+  ],
+  "sessions": [
+    "2021-22",
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "departments": [
+    "CSE",
+    "EEE",
+    "BBA",
+    "ENG",
+    "MAT",
+    "PHY"
+  ],
+  "student_total": 450,
+  "course_total": 120,
+  "teacher_total": 36,
+  "rules_supported": [
+    "Student conflict-free scheduling",
+    "Room allocation",
+    "Own-course teacher invigilation restriction",
+    "Teacher same-timeslot clash prevention",
+    "Teacher duty load balancing"
+  ]
+}

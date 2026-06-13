@@ -1,0 +1,121 @@
+course_id,course_code,course_name,dept_code,session,year_level,credit,exam_duration_hours,exam_type
+CSE501,CSE-501,Computer Science and Engineering Year 5 Course 1,CSE,2021-22,5,2,3,Theory
+CSE502,CSE-502,Computer Science and Engineering Year 5 Course 2,CSE,2021-22,5,3,3,Theory
+CSE503,CSE-503,Computer Science and Engineering Year 5 Course 3,CSE,2021-22,5,4,3,Theory
+CSE504,CSE-504,Computer Science and Engineering Year 5 Course 4,CSE,2021-22,5,4,3,Theory
+CSE401,CSE-401,Computer Science and Engineering Year 4 Course 1,CSE,2022-23,4,4,3,Theory
+CSE402,CSE-402,Computer Science and Engineering Year 4 Course 2,CSE,2022-23,4,2,3,Theory
+CSE403,CSE-403,Computer Science and Engineering Year 4 Course 3,CSE,2022-23,4,2,3,Theory
+CSE404,CSE-404,Computer Science and Engineering Year 4 Course 4,CSE,2022-23,4,4,3,Theory
+CSE301,CSE-301,Computer Science and Engineering Year 3 Course 1,CSE,2023-24,3,4,3,Theory
+CSE302,CSE-302,Computer Science and Engineering Year 3 Course 2,CSE,2023-24,3,4,3,Theory
+CSE303,CSE-303,Computer Science and Engineering Year 3 Course 3,CSE,2023-24,3,3,3,Theory
+CSE304,CSE-304,Computer Science and Engineering Year 3 Course 4,CSE,2023-24,3,4,3,Theory
+CSE201,CSE-201,Computer Science and Engineering Year 2 Course 1,CSE,2024-25,2,4,3,Theory
+CSE202,CSE-202,Computer Science and Engineering Year 2 Course 2,CSE,2024-25,2,4,3,Theory
+CSE203,CSE-203,Computer Science and Engineering Year 2 Course 3,CSE,2024-25,2,3,3,Theory
+CSE204,CSE-204,Computer Science and Engineering Year 2 Course 4,CSE,2024-25,2,4,3,Theory
+CSE101,CSE-101,Computer Science and Engineering Year 1 Course 1,CSE,2025-26,1,3,3,Theory
+CSE102,CSE-102,Computer Science and Engineering Year 1 Course 2,CSE,2025-26,1,2,3,Theory
+CSE103,CSE-103,Computer Science and Engineering Year 1 Course 3,CSE,2025-26,1,2,3,Theory
+CSE104,CSE-104,Computer Science and Engineering Year 1 Course 4,CSE,2025-26,1,4,3,Theory
+EEE501,EEE-501,Electrical and Electronic Engineering Year 5 Course 1,EEE,2021-22,5,2,3,Theory
+EEE502,EEE-502,Electrical and Electronic Engineering Year 5 Course 2,EEE,2021-22,5,2,3,Theory
+EEE503,EEE-503,Electrical and Electronic Engineering Year 5 Course 3,EEE,2021-22,5,3,3,Theory
+EEE504,EEE-504,Electrical and Electronic Engineering Year 5 Course 4,EEE,2021-22,5,2,3,Theory
+EEE401,EEE-401,Electrical and Electronic Engineering Year 4 Course 1,EEE,2022-23,4,3,3,Theory
+EEE402,EEE-402,Electrical and Electronic Engineering Year 4 Course 2,EEE,2022-23,4,2,3,Theory
+EEE403,EEE-403,Electrical and Electronic Engineering Year 4 Course 3,EEE,2022-23,4,4,3,Theory
+EEE404,EEE-404,Electrical and Electronic Engineering Year 4 Course 4,EEE,2022-23,4,3,3,Theory
+EEE301,EEE-301,Electrical and Electronic Engineering Year 3 Course 1,EEE,2023-24,3,4,3,Theory
+EEE302,EEE-302,Electrical and Electronic Engineering Year 3 Course 2,EEE,2023-24,3,3,3,Theory
+EEE303,EEE-303,Electrical and Electronic Engineering Year 3 Course 3,EEE,2023-24,3,2,3,Theory
+EEE304,EEE-304,Electrical and Electronic Engineering Year 3 Course 4,EEE,2023-24,3,3,3,Theory
+EEE201,EEE-201,Electrical and Electronic Engineering Year 2 Course 1,EEE,2024-25,2,3,3,Theory
+EEE202,EEE-202,Electrical and Electronic Engineering Year 2 Course 2,EEE,2024-25,2,3,3,Theory
+EEE203,EEE-203,Electrical and Electronic Engineering Year 2 Course 3,EEE,2024-25,2,3,3,Theory
+EEE204,EEE-204,Electrical and Electronic Engineering Year 2 Course 4,EEE,2024-25,2,3,3,Theory
+EEE101,EEE-101,Electrical and Electronic Engineering Year 1 Course 1,EEE,2025-26,1,4,3,Theory
+EEE102,EEE-102,Electrical and Electronic Engineering Year 1 Course 2,EEE,2025-26,1,4,3,Theory
+EEE103,EEE-103,Electrical and Electronic Engineering Year 1 Course 3,EEE,2025-26,1,4,3,Theory
+EEE104,EEE-104,Electrical and Electronic Engineering Year 1 Course 4,EEE,2025-26,1,2,3,Theory
+BBA501,BBA-501,Business Administration Year 5 Course 1,BBA,2021-22,5,4,3,Theory
+BBA502,BBA-502,Business Administration Year 5 Course 2,BBA,2021-22,5,3,3,Theory
+BBA503,BBA-503,Business Administration Year 5 Course 3,BBA,2021-22,5,2,3,Theory
+BBA504,BBA-504,Business Administration Year 5 Course 4,BBA,2021-22,5,4,3,Theory
+BBA401,BBA-401,Business Administration Year 4 Course 1,BBA,2022-23,4,4,3,Theory
+BBA402,BBA-402,Business Administration Year 4 Course 2,BBA,2022-23,4,3,3,Theory
+BBA403,BBA-403,Business Administration Year 4 Course 3,BBA,2022-23,4,3,3,Theory
+BBA404,BBA-404,Business Administration Year 4 Course 4,BBA,2022-23,4,3,3,Theory
+BBA301,BBA-301,Business Administration Year 3 Course 1,BBA,2023-24,3,2,3,Theory
+BBA302,BBA-302,Business Administration Year 3 Course 2,BBA,2023-24,3,4,3,Theory
+BBA303,BBA-303,Business Administration Year 3 Course 3,BBA,2023-24,3,4,3,Theory
+BBA304,BBA-304,Business Administration Year 3 Course 4,BBA,2023-24,3,4,3,Theory
+BBA201,BBA-201,Business Administration Year 2 Course 1,BBA,2024-25,2,4,3,Theory
+BBA202,BBA-202,Business Administration Year 2 Course 2,BBA,2024-25,2,3,3,Theory
+BBA203,BBA-203,Business Administration Year 2 Course 3,BBA,2024-25,2,2,3,Theory
+BBA204,BBA-204,Business Administration Year 2 Course 4,BBA,2024-25,2,4,3,Theory
+BBA101,BBA-101,Business Administration Year 1 Course 1,BBA,2025-26,1,3,3,Theory
+BBA102,BBA-102,Business Administration Year 1 Course 2,BBA,2025-26,1,3,3,Theory
+BBA103,BBA-103,Business Administration Year 1 Course 3,BBA,2025-26,1,3,3,Theory
+BBA104,BBA-104,Business Administration Year 1 Course 4,BBA,2025-26,1,3,3,Theory
+ENG501,ENG-501,English Year 5 Course 1,ENG,2021-22,5,2,3,Theory
+ENG502,ENG-502,English Year 5 Course 2,ENG,2021-22,5,3,3,Theory
+ENG503,ENG-503,English Year 5 Course 3,ENG,2021-22,5,4,3,Theory
+ENG504,ENG-504,English Year 5 Course 4,ENG,2021-22,5,4,3,Theory
+ENG401,ENG-401,English Year 4 Course 1,ENG,2022-23,4,3,3,Theory
+ENG402,ENG-402,English Year 4 Course 2,ENG,2022-23,4,2,3,Theory
+ENG403,ENG-403,English Year 4 Course 3,ENG,2022-23,4,3,3,Theory
+ENG404,ENG-404,English Year 4 Course 4,ENG,2022-23,4,4,3,Theory
+ENG301,ENG-301,English Year 3 Course 1,ENG,2023-24,3,4,3,Theory
+ENG302,ENG-302,English Year 3 Course 2,ENG,2023-24,3,3,3,Theory
+ENG303,ENG-303,English Year 3 Course 3,ENG,2023-24,3,3,3,Theory
+ENG304,ENG-304,English Year 3 Course 4,ENG,2023-24,3,4,3,Theory
+ENG201,ENG-201,English Year 2 Course 1,ENG,2024-25,2,3,3,Theory
+ENG202,ENG-202,English Year 2 Course 2,ENG,2024-25,2,3,3,Theory
+ENG203,ENG-203,English Year 2 Course 3,ENG,2024-25,2,4,3,Theory
+ENG204,ENG-204,English Year 2 Course 4,ENG,2024-25,2,3,3,Theory
+ENG101,ENG-101,English Year 1 Course 1,ENG,2025-26,1,4,3,Theory
+ENG102,ENG-102,English Year 1 Course 2,ENG,2025-26,1,4,3,Theory
+ENG103,ENG-103,English Year 1 Course 3,ENG,2025-26,1,2,3,Theory
+ENG104,ENG-104,English Year 1 Course 4,ENG,2025-26,1,4,3,Theory
+MAT501,MAT-501,Mathematics Year 5 Course 1,MAT,2021-22,5,2,3,Theory
+MAT502,MAT-502,Mathematics Year 5 Course 2,MAT,2021-22,5,2,3,Theory
+MAT503,MAT-503,Mathematics Year 5 Course 3,MAT,2021-22,5,2,3,Theory
+MAT504,MAT-504,Mathematics Year 5 Course 4,MAT,2021-22,5,4,3,Theory
+MAT401,MAT-401,Mathematics Year 4 Course 1,MAT,2022-23,4,4,3,Theory
+MAT402,MAT-402,Mathematics Year 4 Course 2,MAT,2022-23,4,4,3,Theory
+MAT403,MAT-403,Mathematics Year 4 Course 3,MAT,2022-23,4,2,3,Theory
+MAT404,MAT-404,Mathematics Year 4 Course 4,MAT,2022-23,4,4,3,Theory
+MAT301,MAT-301,Mathematics Year 3 Course 1,MAT,2023-24,3,4,3,Theory
+MAT302,MAT-302,Mathematics Year 3 Course 2,MAT,2023-24,3,3,3,Theory
+MAT303,MAT-303,Mathematics Year 3 Course 3,MAT,2023-24,3,3,3,Theory
+MAT304,MAT-304,Mathematics Year 3 Course 4,MAT,2023-24,3,2,3,Theory
+MAT201,MAT-201,Mathematics Year 2 Course 1,MAT,2024-25,2,3,3,Theory
+MAT202,MAT-202,Mathematics Year 2 Course 2,MAT,2024-25,2,2,3,Theory
+MAT203,MAT-203,Mathematics Year 2 Course 3,MAT,2024-25,2,2,3,Theory
+MAT204,MAT-204,Mathematics Year 2 Course 4,MAT,2024-25,2,4,3,Theory
+MAT101,MAT-101,Mathematics Year 1 Course 1,MAT,2025-26,1,4,3,Theory
+MAT102,MAT-102,Mathematics Year 1 Course 2,MAT,2025-26,1,3,3,Theory
+MAT103,MAT-103,Mathematics Year 1 Course 3,MAT,2025-26,1,4,3,Theory
+MAT104,MAT-104,Mathematics Year 1 Course 4,MAT,2025-26,1,3,3,Theory
+PHY501,PHY-501,Physics Year 5 Course 1,PHY,2021-22,5,4,3,Theory
+PHY502,PHY-502,Physics Year 5 Course 2,PHY,2021-22,5,4,3,Theory
+PHY503,PHY-503,Physics Year 5 Course 3,PHY,2021-22,5,3,3,Theory
+PHY504,PHY-504,Physics Year 5 Course 4,PHY,2021-22,5,4,3,Theory
+PHY401,PHY-401,Physics Year 4 Course 1,PHY,2022-23,4,3,3,Theory
+PHY402,PHY-402,Physics Year 4 Course 2,PHY,2022-23,4,4,3,Theory
+PHY403,PHY-403,Physics Year 4 Course 3,PHY,2022-23,4,3,3,Theory
+PHY404,PHY-404,Physics Year 4 Course 4,PHY,2022-23,4,4,3,Theory
+PHY301,PHY-301,Physics Year 3 Course 1,PHY,2023-24,3,4,3,Theory
+PHY302,PHY-302,Physics Year 3 Course 2,PHY,2023-24,3,4,3,Theory
+PHY303,PHY-303,Physics Year 3 Course 3,PHY,2023-24,3,4,3,Theory
+PHY304,PHY-304,Physics Year 3 Course 4,PHY,2023-24,3,3,3,Theory
+PHY201,PHY-201,Physics Year 2 Course 1,PHY,2024-25,2,3,3,Theory
+PHY202,PHY-202,Physics Year 2 Course 2,PHY,2024-25,2,3,3,Theory
+PHY203,PHY-203,Physics Year 2 Course 3,PHY,2024-25,2,2,3,Theory
+PHY204,PHY-204,Physics Year 2 Course 4,PHY,2024-25,2,3,3,Theory
+PHY101,PHY-101,Physics Year 1 Course 1,PHY,2025-26,1,3,3,Theory
+PHY102,PHY-102,Physics Year 1 Course 2,PHY,2025-26,1,2,3,Theory
+PHY103,PHY-103,Physics Year 1 Course 3,PHY,2025-26,1,2,3,Theory
+PHY104,PHY-104,Physics Year 1 Course 4,PHY,2025-26,1,2,3,Theory

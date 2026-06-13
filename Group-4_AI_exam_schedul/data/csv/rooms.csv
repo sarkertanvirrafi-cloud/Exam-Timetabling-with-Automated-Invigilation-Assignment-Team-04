@@ -1,0 +1,13 @@
+room_id,room_name,capacity,building,room_type
+R01,Central Hall A,220,Main Campus,Large Hall
+R02,Central Hall B,180,Main Campus,Large Hall
+R03,Academic Hall 101,130,Academic Building,Classroom Hall
+R04,Academic Hall 102,130,Academic Building,Classroom Hall
+R05,Business Hall 201,100,Business Building,Classroom Hall
+R06,Business Hall 202,90,Business Building,Classroom Hall
+R07,Engineering Lab Hall,70,Engineering Building,Lab Hall
+R08,Physics Gallery,150,Science Building,Gallery
+R09,Math Gallery,150,Science Building,Gallery
+R10,English Hall,110,Arts Building,Classroom Hall
+R11,Seminar Room 301,60,Main Campus,Seminar Room
+R12,Seminar Room 302,60,Main Campus,Seminar Room

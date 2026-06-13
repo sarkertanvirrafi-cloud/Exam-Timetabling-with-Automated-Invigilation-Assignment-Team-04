@@ -1,0 +1,9 @@
+Step,Activity,Description
+1,Dataset Loading,"Load students, courses, enrollments, teachers, rooms, timeslots."
+2,Conflict Graph,Build course conflict graph from student enrollments.
+3,Greedy / DSATUR,Generate first conflict-free exam timetable.
+4,Simulated Annealing,Improve timetable quality by reducing soft constraints.
+5,Room Allocation,Assign rooms based on capacity and timeslot availability.
+6,CSP Invigilation,"Assign invigilators with own-course restriction, availability, and load balance."
+7,Validation,"Check student conflicts, room capacity, room clash, teacher clash, own-course rule."
+8,Final Output,"Export timetable, room allocation, invigilation roster, and summary."
