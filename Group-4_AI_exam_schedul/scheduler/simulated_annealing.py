@@ -14,5 +14,18 @@ def _score(schedule: dict[str, str], graph: dict[str, set[str]], enrollments: pd
         for n in neighbors:
             if c < n and schedule.get(c) == schedule.get(n):
                 penalty += 1_000_000
+                
+    slot_day = dict(zip(timeslots['timeslot_id'], timeslots['date']))
+    slot_name = dict(zip(timeslots['timeslot_id'], timeslots['slot_name']))
 
+    # Soft penalty: a student having multiple exams on same date is allowed but discouraged.
+    for _, group in enrollments.groupby('student_id'):
+        by_day: dict[str, int] = {}
+        for c in group['course_id']:
+            slot = schedule.get(c)
+            if slot:
+                by_day[slot_day.get(slot, '')] = by_day.get(slot_day.get(slot, ''), 0) + 1
+        for count in by_day.values():
+            if count > 1:
+                penalty += (count - 1) * 10
 
