@@ -35,4 +35,13 @@ def validate_all(
             errors['room_conflicts'].append(f'Room {room} used {len(group)} times at {slot}')
 
 
-    
+    for row in room_allocations.itertuples(index=False):
+        if int(row.student_count) > int(row.room_capacity):
+            errors['room_capacity'].append(f'{row.course_id}: {row.student_count}>{row.room_capacity}')
+
+    course_teachers = dfs['course_teachers'].groupby('course_id')['teacher_id'].apply(set).to_dict()
+    available = {(r.teacher_id, r.timeslot_id): int(r.available) == 1 for r in dfs['teacher_availability'].itertuples(index=False)}
+    teacher_max = dict(zip(dfs['teachers']['teacher_id'], dfs['teachers']['max_duties']))
+    teacher_busy = set()
+    teacher_load = {tid: 0 for tid in teacher_max}
+
