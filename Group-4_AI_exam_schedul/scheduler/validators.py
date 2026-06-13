@@ -7,3 +7,11 @@ def validate_all(
     room_allocations: pd.DataFrame,
     invigilation_roster: pd.DataFrame,
     dfs: dict[str, pd.DataFrame],
+) -> dict[str, list[str]]:
+    errors: dict[str, list[str]] = {
+        'student_conflicts': [],
+        'room_conflicts': [],
+        'room_capacity': [],
+        'invigilation': [],
+    }
+    
