@@ -1,0 +1,7 @@
+Member,Responsibility,Work Description
+Member 1,Dataset + Parser,"Prepare dataset, CSV loading, Excel data organization."
+Member 2,Conflict Graph + Greedy / DSATUR,Build conflict graph and generate baseline schedule.
+Member 3,Simulated Annealing,Implement optimization and convergence tracking.
+Member 4,Constraint Checker + Evaluator,Implement hard/soft constraints and scoring function.
+Member 5,Room Allocation,Assign halls based on capacity and avoid room clashes.
+Member 6,CSP Invigilation + Integration,"Assign teachers, balance duty load, integrate final pipeline."

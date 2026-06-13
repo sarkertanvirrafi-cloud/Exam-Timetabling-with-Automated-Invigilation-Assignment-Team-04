@@ -1,0 +1,37 @@
+teacher_id,teacher_name,dept_code,dept_name,designation,max_duties
+T001,Dr. Rahim Khan,CSE,Computer Science and Engineering,Assistant Professor,7
+T002,Prof. Sanjida Islam,CSE,Computer Science and Engineering,Professor,7
+T003,Dr. Mahin Akter,CSE,Computer Science and Engineering,Assistant Professor,8
+T004,Prof. Nusrat Islam,CSE,Computer Science and Engineering,Assistant Professor,7
+T005,Ms. Nusrat Sultana,CSE,Computer Science and Engineering,Lecturer,6
+T006,Ms. Fariha Ahmed,CSE,Computer Science and Engineering,Associate Professor,7
+T007,Prof. Jannat Hossain,EEE,Electrical and Electronic Engineering,Lecturer,8
+T008,Prof. Nabila Mia,EEE,Electrical and Electronic Engineering,Lecturer,6
+T009,Ms. Nafis Sultana,EEE,Electrical and Electronic Engineering,Professor,6
+T010,Mr. Mim Rahman,EEE,Electrical and Electronic Engineering,Lecturer,7
+T011,Ms. Karim Karim,EEE,Electrical and Electronic Engineering,Professor,7
+T012,Mr. Anika Khan,EEE,Electrical and Electronic Engineering,Associate Professor,6
+T013,Ms. Mehedi Hossain,BBA,Business Administration,Associate Professor,6
+T014,Ms. Rifat Chowdhury,BBA,Business Administration,Assistant Professor,7
+T015,Ms. Nabila Khan,BBA,Business Administration,Lecturer,6
+T016,Mr. Mim Mia,BBA,Business Administration,Assistant Professor,7
+T017,Mr. Farhan Sarker,BBA,Business Administration,Professor,7
+T018,Prof. Jannat Hasan,BBA,Business Administration,Lecturer,8
+T019,Prof. Rahim Sultana,ENG,English,Assistant Professor,8
+T020,Mr. Rafi Karim,ENG,English,Assistant Professor,6
+T021,Mr. Hasan Chowdhury,ENG,English,Assistant Professor,8
+T022,Prof. Naim Mahmud,ENG,English,Lecturer,8
+T023,Mr. Nusrat Chowdhury,ENG,English,Lecturer,8
+T024,Dr. Sanjida Ahmed,ENG,English,Associate Professor,6
+T025,Mr. Mim Mia,MAT,Mathematics,Lecturer,6
+T026,Prof. Farhan Mahmud,MAT,Mathematics,Assistant Professor,7
+T027,Prof. Raihan Hasan,MAT,Mathematics,Associate Professor,8
+T028,Ms. Nabila Karim,MAT,Mathematics,Professor,8
+T029,Prof. Naim Chowdhury,MAT,Mathematics,Lecturer,8
+T030,Prof. Nafis Mahmud,MAT,Mathematics,Professor,8
+T031,Dr. Sami Islam,PHY,Physics,Assistant Professor,8
+T032,Mr. Mehedi Ahmed,PHY,Physics,Professor,6
+T033,Dr. Jannat Rahman,PHY,Physics,Assistant Professor,8
+T034,Ms. Mehedi Hasan,PHY,Physics,Associate Professor,6
+T035,Mr. Farhan Rahman,PHY,Physics,Professor,7
+T036,Ms. Anika Sarker,PHY,Physics,Associate Professor,6

@@ -1,0 +1,451 @@
+student_id,student_name,dept_code,dept_name,faculty,session,year_level,email,status
+CSE-202122-001,Naim Alam,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-001@university.edu,Active
+CSE-202122-002,Rifat Akter,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-002@university.edu,Active
+CSE-202122-003,Nabila Khan,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-003@university.edu,Active
+CSE-202122-004,Rifat Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-004@university.edu,Active
+CSE-202122-005,Rifat Alam,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-005@university.edu,Active
+CSE-202122-006,Tahsin Sultana,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-006@university.edu,Active
+CSE-202122-007,Nusrat Sarker,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-007@university.edu,Active
+CSE-202122-008,Rumana Akter,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-008@university.edu,Active
+CSE-202122-009,Naim Alam,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-009@university.edu,Active
+CSE-202122-010,Nafis Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-010@university.edu,Active
+CSE-202122-011,Morshed Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-011@university.edu,Active
+CSE-202122-012,Sami Chowdhury,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-012@university.edu,Active
+CSE-202122-013,Fariha Islam,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-013@university.edu,Active
+CSE-202122-014,Shahriar Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-014@university.edu,Active
+CSE-202122-015,Raisa Islam,CSE,Computer Science and Engineering,Faculty of Engineering,2021-22,5,cse-202122-015@university.edu,Active
+CSE-202223-001,Nabila Mahmud,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-001@university.edu,Active
+CSE-202223-002,Sabrina Rahman,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-002@university.edu,Active
+CSE-202223-003,Sanjida Ahmed,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-003@university.edu,Active
+CSE-202223-004,Sadia Ahmed,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-004@university.edu,Active
+CSE-202223-005,Sanjida Hasan,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-005@university.edu,Active
+CSE-202223-006,Sadia Hasan,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-006@university.edu,Active
+CSE-202223-007,Nabila Hossain,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-007@university.edu,Active
+CSE-202223-008,Mim Hasan,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-008@university.edu,Active
+CSE-202223-009,Nusrat Alam,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-009@university.edu,Active
+CSE-202223-010,Shahriar Karim,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-010@university.edu,Active
+CSE-202223-011,Fahim Rahman,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-011@university.edu,Active
+CSE-202223-012,Rahim Akter,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-012@university.edu,Active
+CSE-202223-013,Rifat Mahmud,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-013@university.edu,Active
+CSE-202223-014,Hasan Sultana,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-014@university.edu,Active
+CSE-202223-015,Farhan Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2022-23,4,cse-202223-015@university.edu,Active
+CSE-202324-001,Hasan Hasan,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-001@university.edu,Active
+CSE-202324-002,Rumana Islam,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-002@university.edu,Active
+CSE-202324-003,Sabrina Karim,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-003@university.edu,Active
+CSE-202324-004,Jannat Rahman,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-004@university.edu,Active
+CSE-202324-005,Sakib Sultana,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-005@university.edu,Active
+CSE-202324-006,Sabrina Chowdhury,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-006@university.edu,Active
+CSE-202324-007,Rafi Sultana,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-007@university.edu,Active
+CSE-202324-008,Nabila Chowdhury,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-008@university.edu,Active
+CSE-202324-009,Rahim Islam,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-009@university.edu,Active
+CSE-202324-010,Raihan Islam,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-010@university.edu,Active
+CSE-202324-011,Ayesha Sarker,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-011@university.edu,Active
+CSE-202324-012,Fahim Karim,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-012@university.edu,Active
+CSE-202324-013,Fahim Alam,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-013@university.edu,Active
+CSE-202324-014,Karim Ahmed,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-014@university.edu,Active
+CSE-202324-015,Fariha Akter,CSE,Computer Science and Engineering,Faculty of Engineering,2023-24,3,cse-202324-015@university.edu,Active
+CSE-202425-001,Sakib Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-001@university.edu,Active
+CSE-202425-002,Anika Islam,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-002@university.edu,Active
+CSE-202425-003,Rifat Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-003@university.edu,Active
+CSE-202425-004,Jannat Rahman,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-004@university.edu,Active
+CSE-202425-005,Arif Chowdhury,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-005@university.edu,Active
+CSE-202425-006,Mahin Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-006@university.edu,Active
+CSE-202425-007,Farhan Karim,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-007@university.edu,Active
+CSE-202425-008,Tanvir Sultana,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-008@university.edu,Active
+CSE-202425-009,Mehedi Ahmed,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-009@university.edu,Active
+CSE-202425-010,Nabila Karim,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-010@university.edu,Active
+CSE-202425-011,Sami Ahmed,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-011@university.edu,Active
+CSE-202425-012,Ayesha Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-012@university.edu,Active
+CSE-202425-013,Nabila Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-013@university.edu,Active
+CSE-202425-014,Karim Rahman,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-014@university.edu,Active
+CSE-202425-015,Arif Alam,CSE,Computer Science and Engineering,Faculty of Engineering,2024-25,2,cse-202425-015@university.edu,Active
+CSE-202526-001,Hasan Rahman,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-001@university.edu,Active
+CSE-202526-002,Sami Chowdhury,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-002@university.edu,Active
+CSE-202526-003,Shahriar Chowdhury,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-003@university.edu,Active
+CSE-202526-004,Sabrina Sarker,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-004@university.edu,Active
+CSE-202526-005,Sadia Chowdhury,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-005@university.edu,Active
+CSE-202526-006,Sakib Rahman,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-006@university.edu,Active
+CSE-202526-007,Fahim Rahman,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-007@university.edu,Active
+CSE-202526-008,Morshed Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-008@university.edu,Active
+CSE-202526-009,Rifat Alam,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-009@university.edu,Active
+CSE-202526-010,Sabrina Khan,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-010@university.edu,Active
+CSE-202526-011,Naim Rahman,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-011@university.edu,Active
+CSE-202526-012,Anika Sultana,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-012@university.edu,Active
+CSE-202526-013,Fariha Mia,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-013@university.edu,Active
+CSE-202526-014,Mim Sultana,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-014@university.edu,Active
+CSE-202526-015,Shahriar Sarker,CSE,Computer Science and Engineering,Faculty of Engineering,2025-26,1,cse-202526-015@university.edu,Active
+EEE-202122-001,Nafis Sarker,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-001@university.edu,Active
+EEE-202122-002,Arif Hossain,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-002@university.edu,Active
+EEE-202122-003,Rahim Islam,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-003@university.edu,Active
+EEE-202122-004,Naim Karim,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-004@university.edu,Active
+EEE-202122-005,Mahin Chowdhury,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-005@university.edu,Active
+EEE-202122-006,Sami Ahmed,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-006@university.edu,Active
+EEE-202122-007,Fahim Sarker,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-007@university.edu,Active
+EEE-202122-008,Jannat Akter,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-008@university.edu,Active
+EEE-202122-009,Arif Islam,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-009@university.edu,Active
+EEE-202122-010,Shahriar Sultana,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-010@university.edu,Active
+EEE-202122-011,Arif Hasan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-011@university.edu,Active
+EEE-202122-012,Rumana Hasan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-012@university.edu,Active
+EEE-202122-013,Shahriar Karim,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-013@university.edu,Active
+EEE-202122-014,Hasan Islam,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-014@university.edu,Active
+EEE-202122-015,Morshed Islam,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2021-22,5,eee-202122-015@university.edu,Active
+EEE-202223-001,Tahsin Rahman,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-001@university.edu,Active
+EEE-202223-002,Nafis Karim,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-002@university.edu,Active
+EEE-202223-003,Ayesha Alam,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-003@university.edu,Active
+EEE-202223-004,Fahim Mahmud,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-004@university.edu,Active
+EEE-202223-005,Sami Karim,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-005@university.edu,Active
+EEE-202223-006,Nafis Sultana,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-006@university.edu,Active
+EEE-202223-007,Anika Khan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-007@university.edu,Active
+EEE-202223-008,Tanvir Khan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-008@university.edu,Active
+EEE-202223-009,Anika Rahman,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-009@university.edu,Active
+EEE-202223-010,Morshed Khan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-010@university.edu,Active
+EEE-202223-011,Tanvir Ahmed,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-011@university.edu,Active
+EEE-202223-012,Sabrina Sarker,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-012@university.edu,Active
+EEE-202223-013,Morshed Chowdhury,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-013@university.edu,Active
+EEE-202223-014,Rahim Ahmed,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-014@university.edu,Active
+EEE-202223-015,Nafis Hossain,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2022-23,4,eee-202223-015@university.edu,Active
+EEE-202324-001,Karim Khan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-001@university.edu,Active
+EEE-202324-002,Mim Islam,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-002@university.edu,Active
+EEE-202324-003,Fahim Akter,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-003@university.edu,Active
+EEE-202324-004,Naim Hasan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-004@university.edu,Active
+EEE-202324-005,Nusrat Chowdhury,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-005@university.edu,Active
+EEE-202324-006,Anika Hasan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-006@university.edu,Active
+EEE-202324-007,Arif Hasan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-007@university.edu,Active
+EEE-202324-008,Naim Chowdhury,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-008@university.edu,Active
+EEE-202324-009,Mim Karim,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-009@university.edu,Active
+EEE-202324-010,Raisa Sarker,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-010@university.edu,Active
+EEE-202324-011,Morshed Chowdhury,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-011@university.edu,Active
+EEE-202324-012,Rumana Sarker,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-012@university.edu,Active
+EEE-202324-013,Fahim Ahmed,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-013@university.edu,Active
+EEE-202324-014,Tahsin Ahmed,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-014@university.edu,Active
+EEE-202324-015,Rumana Mahmud,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2023-24,3,eee-202324-015@university.edu,Active
+EEE-202425-001,Mahin Khan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-001@university.edu,Active
+EEE-202425-002,Mim Khan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-002@university.edu,Active
+EEE-202425-003,Sabrina Akter,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-003@university.edu,Active
+EEE-202425-004,Karim Sultana,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-004@university.edu,Active
+EEE-202425-005,Mahin Hossain,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-005@university.edu,Active
+EEE-202425-006,Ayesha Mahmud,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-006@university.edu,Active
+EEE-202425-007,Mim Rahman,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-007@university.edu,Active
+EEE-202425-008,Mim Islam,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-008@university.edu,Active
+EEE-202425-009,Nusrat Rahman,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-009@university.edu,Active
+EEE-202425-010,Fahim Hasan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-010@university.edu,Active
+EEE-202425-011,Sakib Ahmed,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-011@university.edu,Active
+EEE-202425-012,Tahsin Hasan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-012@university.edu,Active
+EEE-202425-013,Hasan Akter,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-013@university.edu,Active
+EEE-202425-014,Sabrina Chowdhury,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-014@university.edu,Active
+EEE-202425-015,Raihan Hossain,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2024-25,2,eee-202425-015@university.edu,Active
+EEE-202526-001,Sabrina Karim,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-001@university.edu,Active
+EEE-202526-002,Farhan Alam,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-002@university.edu,Active
+EEE-202526-003,Hasan Rahman,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-003@university.edu,Active
+EEE-202526-004,Karim Karim,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-004@university.edu,Active
+EEE-202526-005,Mehedi Khan,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-005@university.edu,Active
+EEE-202526-006,Rafi Hossain,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-006@university.edu,Active
+EEE-202526-007,Karim Ahmed,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-007@university.edu,Active
+EEE-202526-008,Shahriar Sultana,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-008@university.edu,Active
+EEE-202526-009,Fariha Chowdhury,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-009@university.edu,Active
+EEE-202526-010,Morshed Akter,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-010@university.edu,Active
+EEE-202526-011,Hasan Karim,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-011@university.edu,Active
+EEE-202526-012,Sadia Sarker,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-012@university.edu,Active
+EEE-202526-013,Sami Sultana,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-013@university.edu,Active
+EEE-202526-014,Nusrat Karim,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-014@university.edu,Active
+EEE-202526-015,Morshed Akter,EEE,Electrical and Electronic Engineering,Faculty of Engineering,2025-26,1,eee-202526-015@university.edu,Active
+BBA-202122-001,Anika Ahmed,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-001@university.edu,Active
+BBA-202122-002,Rahim Karim,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-002@university.edu,Active
+BBA-202122-003,Tania Mia,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-003@university.edu,Active
+BBA-202122-004,Ayesha Hossain,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-004@university.edu,Active
+BBA-202122-005,Rafi Mahmud,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-005@university.edu,Active
+BBA-202122-006,Mehedi Mahmud,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-006@university.edu,Active
+BBA-202122-007,Raisa Alam,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-007@university.edu,Active
+BBA-202122-008,Farhan Sultana,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-008@university.edu,Active
+BBA-202122-009,Shahriar Akter,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-009@university.edu,Active
+BBA-202122-010,Nabila Akter,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-010@university.edu,Active
+BBA-202122-011,Fahim Mia,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-011@university.edu,Active
+BBA-202122-012,Naim Sultana,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-012@university.edu,Active
+BBA-202122-013,Fariha Alam,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-013@university.edu,Active
+BBA-202122-014,Sakib Hossain,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-014@university.edu,Active
+BBA-202122-015,Jannat Karim,BBA,Business Administration,Faculty of Business,2021-22,5,bba-202122-015@university.edu,Active
+BBA-202223-001,Sabrina Rahman,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-001@university.edu,Active
+BBA-202223-002,Rifat Ahmed,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-002@university.edu,Active
+BBA-202223-003,Fahim Sarker,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-003@university.edu,Active
+BBA-202223-004,Sabrina Alam,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-004@university.edu,Active
+BBA-202223-005,Nusrat Karim,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-005@university.edu,Active
+BBA-202223-006,Sami Islam,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-006@university.edu,Active
+BBA-202223-007,Sakib Akter,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-007@university.edu,Active
+BBA-202223-008,Morshed Rahman,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-008@university.edu,Active
+BBA-202223-009,Nafis Ahmed,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-009@university.edu,Active
+BBA-202223-010,Arif Sarker,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-010@university.edu,Active
+BBA-202223-011,Sakib Hasan,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-011@university.edu,Active
+BBA-202223-012,Nusrat Chowdhury,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-012@university.edu,Active
+BBA-202223-013,Raihan Sultana,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-013@university.edu,Active
+BBA-202223-014,Jannat Sultana,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-014@university.edu,Active
+BBA-202223-015,Nafis Islam,BBA,Business Administration,Faculty of Business,2022-23,4,bba-202223-015@university.edu,Active
+BBA-202324-001,Rafi Mahmud,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-001@university.edu,Active
+BBA-202324-002,Raihan Akter,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-002@university.edu,Active
+BBA-202324-003,Morshed Khan,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-003@university.edu,Active
+BBA-202324-004,Nusrat Mahmud,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-004@university.edu,Active
+BBA-202324-005,Nabila Rahman,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-005@university.edu,Active
+BBA-202324-006,Rumana Khan,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-006@university.edu,Active
+BBA-202324-007,Rumana Akter,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-007@university.edu,Active
+BBA-202324-008,Hasan Chowdhury,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-008@university.edu,Active
+BBA-202324-009,Nabila Mahmud,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-009@university.edu,Active
+BBA-202324-010,Rahim Sarker,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-010@university.edu,Active
+BBA-202324-011,Fariha Chowdhury,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-011@university.edu,Active
+BBA-202324-012,Fahim Alam,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-012@university.edu,Active
+BBA-202324-013,Jannat Mahmud,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-013@university.edu,Active
+BBA-202324-014,Karim Rahman,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-014@university.edu,Active
+BBA-202324-015,Anika Sultana,BBA,Business Administration,Faculty of Business,2023-24,3,bba-202324-015@university.edu,Active
+BBA-202425-001,Rafi Rahman,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-001@university.edu,Active
+BBA-202425-002,Karim Islam,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-002@university.edu,Active
+BBA-202425-003,Rahim Sarker,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-003@university.edu,Active
+BBA-202425-004,Raisa Islam,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-004@university.edu,Active
+BBA-202425-005,Raisa Khan,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-005@university.edu,Active
+BBA-202425-006,Arif Sultana,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-006@university.edu,Active
+BBA-202425-007,Rafi Hasan,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-007@university.edu,Active
+BBA-202425-008,Tania Rahman,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-008@university.edu,Active
+BBA-202425-009,Nafis Akter,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-009@university.edu,Active
+BBA-202425-010,Rifat Islam,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-010@university.edu,Active
+BBA-202425-011,Tanvir Chowdhury,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-011@university.edu,Active
+BBA-202425-012,Morshed Hasan,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-012@university.edu,Active
+BBA-202425-013,Sakib Karim,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-013@university.edu,Active
+BBA-202425-014,Mim Akter,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-014@university.edu,Active
+BBA-202425-015,Fariha Mia,BBA,Business Administration,Faculty of Business,2024-25,2,bba-202425-015@university.edu,Active
+BBA-202526-001,Mim Sultana,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-001@university.edu,Active
+BBA-202526-002,Tania Sarker,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-002@university.edu,Active
+BBA-202526-003,Fahim Karim,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-003@university.edu,Active
+BBA-202526-004,Naim Hasan,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-004@university.edu,Active
+BBA-202526-005,Fahim Islam,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-005@university.edu,Active
+BBA-202526-006,Tanvir Alam,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-006@university.edu,Active
+BBA-202526-007,Sadia Alam,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-007@university.edu,Active
+BBA-202526-008,Rifat Alam,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-008@university.edu,Active
+BBA-202526-009,Sakib Khan,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-009@university.edu,Active
+BBA-202526-010,Farhan Rahman,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-010@university.edu,Active
+BBA-202526-011,Anika Chowdhury,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-011@university.edu,Active
+BBA-202526-012,Mahin Akter,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-012@university.edu,Active
+BBA-202526-013,Rifat Chowdhury,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-013@university.edu,Active
+BBA-202526-014,Anika Rahman,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-014@university.edu,Active
+BBA-202526-015,Nabila Alam,BBA,Business Administration,Faculty of Business,2025-26,1,bba-202526-015@university.edu,Active
+ENG-202122-001,Naim Hossain,ENG,English,Faculty of Arts,2021-22,5,eng-202122-001@university.edu,Active
+ENG-202122-002,Fahim Alam,ENG,English,Faculty of Arts,2021-22,5,eng-202122-002@university.edu,Active
+ENG-202122-003,Fahim Chowdhury,ENG,English,Faculty of Arts,2021-22,5,eng-202122-003@university.edu,Active
+ENG-202122-004,Raihan Hossain,ENG,English,Faculty of Arts,2021-22,5,eng-202122-004@university.edu,Active
+ENG-202122-005,Rafi Mia,ENG,English,Faculty of Arts,2021-22,5,eng-202122-005@university.edu,Active
+ENG-202122-006,Hasan Chowdhury,ENG,English,Faculty of Arts,2021-22,5,eng-202122-006@university.edu,Active
+ENG-202122-007,Shahriar Akter,ENG,English,Faculty of Arts,2021-22,5,eng-202122-007@university.edu,Active
+ENG-202122-008,Mim Akter,ENG,English,Faculty of Arts,2021-22,5,eng-202122-008@university.edu,Active
+ENG-202122-009,Shahriar Sarker,ENG,English,Faculty of Arts,2021-22,5,eng-202122-009@university.edu,Active
+ENG-202122-010,Sanjida Khan,ENG,English,Faculty of Arts,2021-22,5,eng-202122-010@university.edu,Active
+ENG-202122-011,Rafi Sultana,ENG,English,Faculty of Arts,2021-22,5,eng-202122-011@university.edu,Active
+ENG-202122-012,Shahriar Hossain,ENG,English,Faculty of Arts,2021-22,5,eng-202122-012@university.edu,Active
+ENG-202122-013,Mahin Rahman,ENG,English,Faculty of Arts,2021-22,5,eng-202122-013@university.edu,Active
+ENG-202122-014,Mim Khan,ENG,English,Faculty of Arts,2021-22,5,eng-202122-014@university.edu,Active
+ENG-202122-015,Rumana Hasan,ENG,English,Faculty of Arts,2021-22,5,eng-202122-015@university.edu,Active
+ENG-202223-001,Naim Karim,ENG,English,Faculty of Arts,2022-23,4,eng-202223-001@university.edu,Active
+ENG-202223-002,Mehedi Chowdhury,ENG,English,Faculty of Arts,2022-23,4,eng-202223-002@university.edu,Active
+ENG-202223-003,Karim Sultana,ENG,English,Faculty of Arts,2022-23,4,eng-202223-003@university.edu,Active
+ENG-202223-004,Mahin Karim,ENG,English,Faculty of Arts,2022-23,4,eng-202223-004@university.edu,Active
+ENG-202223-005,Sabrina Akter,ENG,English,Faculty of Arts,2022-23,4,eng-202223-005@university.edu,Active
+ENG-202223-006,Nafis Karim,ENG,English,Faculty of Arts,2022-23,4,eng-202223-006@university.edu,Active
+ENG-202223-007,Rifat Karim,ENG,English,Faculty of Arts,2022-23,4,eng-202223-007@university.edu,Active
+ENG-202223-008,Arif Chowdhury,ENG,English,Faculty of Arts,2022-23,4,eng-202223-008@university.edu,Active
+ENG-202223-009,Fahim Karim,ENG,English,Faculty of Arts,2022-23,4,eng-202223-009@university.edu,Active
+ENG-202223-010,Mahin Ahmed,ENG,English,Faculty of Arts,2022-23,4,eng-202223-010@university.edu,Active
+ENG-202223-011,Mehedi Mahmud,ENG,English,Faculty of Arts,2022-23,4,eng-202223-011@university.edu,Active
+ENG-202223-012,Sami Ahmed,ENG,English,Faculty of Arts,2022-23,4,eng-202223-012@university.edu,Active
+ENG-202223-013,Shahriar Sultana,ENG,English,Faculty of Arts,2022-23,4,eng-202223-013@university.edu,Active
+ENG-202223-014,Morshed Rahman,ENG,English,Faculty of Arts,2022-23,4,eng-202223-014@university.edu,Active
+ENG-202223-015,Mahin Hasan,ENG,English,Faculty of Arts,2022-23,4,eng-202223-015@university.edu,Active
+ENG-202324-001,Sabrina Sarker,ENG,English,Faculty of Arts,2023-24,3,eng-202324-001@university.edu,Active
+ENG-202324-002,Fariha Sarker,ENG,English,Faculty of Arts,2023-24,3,eng-202324-002@university.edu,Active
+ENG-202324-003,Fariha Akter,ENG,English,Faculty of Arts,2023-24,3,eng-202324-003@university.edu,Active
+ENG-202324-004,Rahim Ahmed,ENG,English,Faculty of Arts,2023-24,3,eng-202324-004@university.edu,Active
+ENG-202324-005,Farhan Karim,ENG,English,Faculty of Arts,2023-24,3,eng-202324-005@university.edu,Active
+ENG-202324-006,Mim Karim,ENG,English,Faculty of Arts,2023-24,3,eng-202324-006@university.edu,Active
+ENG-202324-007,Shahriar Akter,ENG,English,Faculty of Arts,2023-24,3,eng-202324-007@university.edu,Active
+ENG-202324-008,Karim Alam,ENG,English,Faculty of Arts,2023-24,3,eng-202324-008@university.edu,Active
+ENG-202324-009,Arif Alam,ENG,English,Faculty of Arts,2023-24,3,eng-202324-009@university.edu,Active
+ENG-202324-010,Naim Sultana,ENG,English,Faculty of Arts,2023-24,3,eng-202324-010@university.edu,Active
+ENG-202324-011,Shahriar Hasan,ENG,English,Faculty of Arts,2023-24,3,eng-202324-011@university.edu,Active
+ENG-202324-012,Raisa Islam,ENG,English,Faculty of Arts,2023-24,3,eng-202324-012@university.edu,Active
+ENG-202324-013,Nabila Sultana,ENG,English,Faculty of Arts,2023-24,3,eng-202324-013@university.edu,Active
+ENG-202324-014,Rahim Islam,ENG,English,Faculty of Arts,2023-24,3,eng-202324-014@university.edu,Active
+ENG-202324-015,Rafi Akter,ENG,English,Faculty of Arts,2023-24,3,eng-202324-015@university.edu,Active
+ENG-202425-001,Farhan Mia,ENG,English,Faculty of Arts,2024-25,2,eng-202425-001@university.edu,Active
+ENG-202425-002,Arif Hasan,ENG,English,Faculty of Arts,2024-25,2,eng-202425-002@university.edu,Active
+ENG-202425-003,Jannat Mahmud,ENG,English,Faculty of Arts,2024-25,2,eng-202425-003@university.edu,Active
+ENG-202425-004,Sakib Islam,ENG,English,Faculty of Arts,2024-25,2,eng-202425-004@university.edu,Active
+ENG-202425-005,Sabrina Mahmud,ENG,English,Faculty of Arts,2024-25,2,eng-202425-005@university.edu,Active
+ENG-202425-006,Hasan Islam,ENG,English,Faculty of Arts,2024-25,2,eng-202425-006@university.edu,Active
+ENG-202425-007,Karim Khan,ENG,English,Faculty of Arts,2024-25,2,eng-202425-007@university.edu,Active
+ENG-202425-008,Sabrina Ahmed,ENG,English,Faculty of Arts,2024-25,2,eng-202425-008@university.edu,Active
+ENG-202425-009,Sami Sultana,ENG,English,Faculty of Arts,2024-25,2,eng-202425-009@university.edu,Active
+ENG-202425-010,Farhan Mia,ENG,English,Faculty of Arts,2024-25,2,eng-202425-010@university.edu,Active
+ENG-202425-011,Mahin Akter,ENG,English,Faculty of Arts,2024-25,2,eng-202425-011@university.edu,Active
+ENG-202425-012,Fahim Akter,ENG,English,Faculty of Arts,2024-25,2,eng-202425-012@university.edu,Active
+ENG-202425-013,Fariha Khan,ENG,English,Faculty of Arts,2024-25,2,eng-202425-013@university.edu,Active
+ENG-202425-014,Rifat Akter,ENG,English,Faculty of Arts,2024-25,2,eng-202425-014@university.edu,Active
+ENG-202425-015,Morshed Ahmed,ENG,English,Faculty of Arts,2024-25,2,eng-202425-015@university.edu,Active
+ENG-202526-001,Rifat Rahman,ENG,English,Faculty of Arts,2025-26,1,eng-202526-001@university.edu,Active
+ENG-202526-002,Karim Mia,ENG,English,Faculty of Arts,2025-26,1,eng-202526-002@university.edu,Active
+ENG-202526-003,Raisa Khan,ENG,English,Faculty of Arts,2025-26,1,eng-202526-003@university.edu,Active
+ENG-202526-004,Naim Hossain,ENG,English,Faculty of Arts,2025-26,1,eng-202526-004@university.edu,Active
+ENG-202526-005,Raisa Khan,ENG,English,Faculty of Arts,2025-26,1,eng-202526-005@university.edu,Active
+ENG-202526-006,Mehedi Khan,ENG,English,Faculty of Arts,2025-26,1,eng-202526-006@university.edu,Active
+ENG-202526-007,Arif Hasan,ENG,English,Faculty of Arts,2025-26,1,eng-202526-007@university.edu,Active
+ENG-202526-008,Ayesha Sarker,ENG,English,Faculty of Arts,2025-26,1,eng-202526-008@university.edu,Active
+ENG-202526-009,Sabrina Sarker,ENG,English,Faculty of Arts,2025-26,1,eng-202526-009@university.edu,Active
+ENG-202526-010,Tanvir Mahmud,ENG,English,Faculty of Arts,2025-26,1,eng-202526-010@university.edu,Active
+ENG-202526-011,Sakib Mia,ENG,English,Faculty of Arts,2025-26,1,eng-202526-011@university.edu,Active
+ENG-202526-012,Sadia Sarker,ENG,English,Faculty of Arts,2025-26,1,eng-202526-012@university.edu,Active
+ENG-202526-013,Anika Mia,ENG,English,Faculty of Arts,2025-26,1,eng-202526-013@university.edu,Active
+ENG-202526-014,Anika Karim,ENG,English,Faculty of Arts,2025-26,1,eng-202526-014@university.edu,Active
+ENG-202526-015,Mahin Akter,ENG,English,Faculty of Arts,2025-26,1,eng-202526-015@university.edu,Active
+MAT-202122-001,Sami Islam,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-001@university.edu,Active
+MAT-202122-002,Sami Alam,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-002@university.edu,Active
+MAT-202122-003,Morshed Sarker,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-003@university.edu,Active
+MAT-202122-004,Raihan Karim,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-004@university.edu,Active
+MAT-202122-005,Nafis Hasan,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-005@university.edu,Active
+MAT-202122-006,Arif Ahmed,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-006@university.edu,Active
+MAT-202122-007,Naim Hossain,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-007@university.edu,Active
+MAT-202122-008,Arif Chowdhury,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-008@university.edu,Active
+MAT-202122-009,Hasan Sultana,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-009@university.edu,Active
+MAT-202122-010,Arif Alam,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-010@university.edu,Active
+MAT-202122-011,Shahriar Alam,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-011@university.edu,Active
+MAT-202122-012,Rifat Rahman,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-012@university.edu,Active
+MAT-202122-013,Anika Akter,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-013@university.edu,Active
+MAT-202122-014,Mehedi Sultana,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-014@university.edu,Active
+MAT-202122-015,Nabila Rahman,MAT,Mathematics,Faculty of Science,2021-22,5,mat-202122-015@university.edu,Active
+MAT-202223-001,Rafi Mahmud,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-001@university.edu,Active
+MAT-202223-002,Rafi Rahman,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-002@university.edu,Active
+MAT-202223-003,Ayesha Alam,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-003@university.edu,Active
+MAT-202223-004,Nusrat Khan,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-004@university.edu,Active
+MAT-202223-005,Sakib Sarker,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-005@university.edu,Active
+MAT-202223-006,Sami Rahman,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-006@university.edu,Active
+MAT-202223-007,Shahriar Sultana,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-007@university.edu,Active
+MAT-202223-008,Fahim Rahman,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-008@university.edu,Active
+MAT-202223-009,Naim Rahman,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-009@university.edu,Active
+MAT-202223-010,Sami Mahmud,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-010@university.edu,Active
+MAT-202223-011,Ayesha Alam,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-011@university.edu,Active
+MAT-202223-012,Sami Karim,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-012@university.edu,Active
+MAT-202223-013,Rafi Chowdhury,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-013@university.edu,Active
+MAT-202223-014,Rifat Sultana,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-014@university.edu,Active
+MAT-202223-015,Karim Khan,MAT,Mathematics,Faculty of Science,2022-23,4,mat-202223-015@university.edu,Active
+MAT-202324-001,Farhan Sultana,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-001@university.edu,Active
+MAT-202324-002,Raisa Sultana,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-002@university.edu,Active
+MAT-202324-003,Sadia Mia,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-003@university.edu,Active
+MAT-202324-004,Sabrina Rahman,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-004@university.edu,Active
+MAT-202324-005,Anika Rahman,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-005@university.edu,Active
+MAT-202324-006,Nusrat Mia,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-006@university.edu,Active
+MAT-202324-007,Rahim Ahmed,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-007@university.edu,Active
+MAT-202324-008,Nafis Akter,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-008@university.edu,Active
+MAT-202324-009,Morshed Akter,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-009@university.edu,Active
+MAT-202324-010,Karim Rahman,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-010@university.edu,Active
+MAT-202324-011,Nabila Sarker,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-011@university.edu,Active
+MAT-202324-012,Sadia Chowdhury,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-012@university.edu,Active
+MAT-202324-013,Tahsin Hossain,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-013@university.edu,Active
+MAT-202324-014,Jannat Hossain,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-014@university.edu,Active
+MAT-202324-015,Farhan Karim,MAT,Mathematics,Faculty of Science,2023-24,3,mat-202324-015@university.edu,Active
+MAT-202425-001,Rifat Hossain,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-001@university.edu,Active
+MAT-202425-002,Raisa Rahman,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-002@university.edu,Active
+MAT-202425-003,Tahsin Mahmud,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-003@university.edu,Active
+MAT-202425-004,Tahsin Mia,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-004@university.edu,Active
+MAT-202425-005,Raisa Mahmud,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-005@university.edu,Active
+MAT-202425-006,Arif Khan,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-006@university.edu,Active
+MAT-202425-007,Sanjida Sultana,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-007@university.edu,Active
+MAT-202425-008,Fariha Islam,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-008@university.edu,Active
+MAT-202425-009,Arif Mahmud,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-009@university.edu,Active
+MAT-202425-010,Nabila Islam,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-010@university.edu,Active
+MAT-202425-011,Sadia Akter,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-011@university.edu,Active
+MAT-202425-012,Jannat Islam,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-012@university.edu,Active
+MAT-202425-013,Sami Hossain,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-013@university.edu,Active
+MAT-202425-014,Tahsin Hossain,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-014@university.edu,Active
+MAT-202425-015,Tahsin Ahmed,MAT,Mathematics,Faculty of Science,2024-25,2,mat-202425-015@university.edu,Active
+MAT-202526-001,Rafi Karim,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-001@university.edu,Active
+MAT-202526-002,Shahriar Khan,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-002@university.edu,Active
+MAT-202526-003,Raisa Chowdhury,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-003@university.edu,Active
+MAT-202526-004,Rahim Mia,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-004@university.edu,Active
+MAT-202526-005,Naim Khan,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-005@university.edu,Active
+MAT-202526-006,Fahim Mia,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-006@university.edu,Active
+MAT-202526-007,Hasan Islam,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-007@university.edu,Active
+MAT-202526-008,Rafi Sultana,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-008@university.edu,Active
+MAT-202526-009,Farhan Akter,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-009@university.edu,Active
+MAT-202526-010,Naim Chowdhury,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-010@university.edu,Active
+MAT-202526-011,Ayesha Mahmud,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-011@university.edu,Active
+MAT-202526-012,Anika Alam,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-012@university.edu,Active
+MAT-202526-013,Morshed Karim,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-013@university.edu,Active
+MAT-202526-014,Sadia Mia,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-014@university.edu,Active
+MAT-202526-015,Naim Akter,MAT,Mathematics,Faculty of Science,2025-26,1,mat-202526-015@university.edu,Active
+PHY-202122-001,Nafis Sarker,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-001@university.edu,Active
+PHY-202122-002,Shahriar Khan,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-002@university.edu,Active
+PHY-202122-003,Nusrat Islam,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-003@university.edu,Active
+PHY-202122-004,Nusrat Islam,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-004@university.edu,Active
+PHY-202122-005,Sanjida Hasan,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-005@university.edu,Active
+PHY-202122-006,Nafis Chowdhury,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-006@university.edu,Active
+PHY-202122-007,Naim Hasan,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-007@university.edu,Active
+PHY-202122-008,Fariha Sultana,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-008@university.edu,Active
+PHY-202122-009,Karim Rahman,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-009@university.edu,Active
+PHY-202122-010,Anika Rahman,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-010@university.edu,Active
+PHY-202122-011,Karim Islam,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-011@university.edu,Active
+PHY-202122-012,Mehedi Islam,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-012@university.edu,Active
+PHY-202122-013,Jannat Sultana,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-013@university.edu,Active
+PHY-202122-014,Morshed Ahmed,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-014@university.edu,Active
+PHY-202122-015,Nusrat Mahmud,PHY,Physics,Faculty of Science,2021-22,5,phy-202122-015@university.edu,Active
+PHY-202223-001,Tanvir Alam,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-001@university.edu,Active
+PHY-202223-002,Mim Mahmud,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-002@university.edu,Active
+PHY-202223-003,Mahin Mahmud,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-003@university.edu,Active
+PHY-202223-004,Rafi Khan,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-004@university.edu,Active
+PHY-202223-005,Fariha Hossain,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-005@university.edu,Active
+PHY-202223-006,Anika Mahmud,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-006@university.edu,Active
+PHY-202223-007,Naim Mahmud,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-007@university.edu,Active
+PHY-202223-008,Tania Chowdhury,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-008@university.edu,Active
+PHY-202223-009,Tania Sultana,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-009@university.edu,Active
+PHY-202223-010,Anika Chowdhury,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-010@university.edu,Active
+PHY-202223-011,Nusrat Mia,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-011@university.edu,Active
+PHY-202223-012,Tania Hasan,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-012@university.edu,Active
+PHY-202223-013,Sami Mia,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-013@university.edu,Active
+PHY-202223-014,Nabila Alam,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-014@university.edu,Active
+PHY-202223-015,Mim Hasan,PHY,Physics,Faculty of Science,2022-23,4,phy-202223-015@university.edu,Active
+PHY-202324-001,Fariha Hasan,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-001@university.edu,Active
+PHY-202324-002,Raihan Mia,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-002@university.edu,Active
+PHY-202324-003,Karim Mia,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-003@university.edu,Active
+PHY-202324-004,Arif Chowdhury,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-004@university.edu,Active
+PHY-202324-005,Nusrat Sultana,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-005@university.edu,Active
+PHY-202324-006,Naim Alam,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-006@university.edu,Active
+PHY-202324-007,Hasan Khan,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-007@university.edu,Active
+PHY-202324-008,Tania Sarker,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-008@university.edu,Active
+PHY-202324-009,Anika Khan,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-009@university.edu,Active
+PHY-202324-010,Tahsin Sarker,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-010@university.edu,Active
+PHY-202324-011,Karim Akter,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-011@university.edu,Active
+PHY-202324-012,Jannat Sultana,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-012@university.edu,Active
+PHY-202324-013,Mim Hasan,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-013@university.edu,Active
+PHY-202324-014,Raisa Alam,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-014@university.edu,Active
+PHY-202324-015,Arif Hasan,PHY,Physics,Faculty of Science,2023-24,3,phy-202324-015@university.edu,Active
+PHY-202425-001,Tanvir Sultana,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-001@university.edu,Active
+PHY-202425-002,Jannat Mia,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-002@university.edu,Active
+PHY-202425-003,Mehedi Alam,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-003@university.edu,Active
+PHY-202425-004,Mim Alam,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-004@university.edu,Active
+PHY-202425-005,Nafis Alam,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-005@university.edu,Active
+PHY-202425-006,Sabrina Chowdhury,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-006@university.edu,Active
+PHY-202425-007,Rahim Hossain,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-007@university.edu,Active
+PHY-202425-008,Nabila Ahmed,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-008@university.edu,Active
+PHY-202425-009,Morshed Alam,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-009@university.edu,Active
+PHY-202425-010,Jannat Sultana,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-010@university.edu,Active
+PHY-202425-011,Shahriar Akter,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-011@university.edu,Active
+PHY-202425-012,Sadia Khan,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-012@university.edu,Active
+PHY-202425-013,Jannat Ahmed,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-013@university.edu,Active
+PHY-202425-014,Arif Mahmud,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-014@university.edu,Active
+PHY-202425-015,Mim Mia,PHY,Physics,Faculty of Science,2024-25,2,phy-202425-015@university.edu,Active
+PHY-202526-001,Nusrat Akter,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-001@university.edu,Active
+PHY-202526-002,Naim Sarker,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-002@university.edu,Active
+PHY-202526-003,Nusrat Sarker,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-003@university.edu,Active
+PHY-202526-004,Nabila Karim,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-004@university.edu,Active
+PHY-202526-005,Fariha Ahmed,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-005@university.edu,Active
+PHY-202526-006,Rumana Islam,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-006@university.edu,Active
+PHY-202526-007,Jannat Karim,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-007@university.edu,Active
+PHY-202526-008,Tanvir Khan,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-008@university.edu,Active
+PHY-202526-009,Arif Ahmed,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-009@university.edu,Active
+PHY-202526-010,Rumana Hasan,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-010@university.edu,Active
+PHY-202526-011,Nusrat Mia,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-011@university.edu,Active
+PHY-202526-012,Morshed Islam,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-012@university.edu,Active
+PHY-202526-013,Jannat Sultana,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-013@university.edu,Active
+PHY-202526-014,Tania Mia,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-014@university.edu,Active
+PHY-202526-015,Ayesha Sultana,PHY,Physics,Faculty of Science,2025-26,1,phy-202526-015@university.edu,Active
