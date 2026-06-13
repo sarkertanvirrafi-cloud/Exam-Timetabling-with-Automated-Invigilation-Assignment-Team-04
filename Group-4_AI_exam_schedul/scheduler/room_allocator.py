@@ -29,3 +29,7 @@ for room in room_rows:
                 continue
             candidates.append(room)
         if not candidates:
+         raise ValueError(f'No available room for {course_id} at {slot_id} with {student_count} students.')
+        chosen = candidates[0]
+        used.add((slot_id, chosen['room_id']))
+        allocations.append({
