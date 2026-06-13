@@ -44,4 +44,20 @@ def validate_all(
     teacher_max = dict(zip(dfs['teachers']['teacher_id'], dfs['teachers']['max_duties']))
     teacher_busy = set()
     teacher_load = {tid: 0 for tid in teacher_max}
+    
+    for row in invigilation_roster.itertuples(index=False):
+        invigs = [getattr(row, c) for c in ['invigilator_1', 'invigilator_2', 'invigilator_3'] if getattr(row, c, '')]
+        if len(invigs) < int(row.required_invigilators):
+            errors['invigilation'].append(f'{row.course_id}: missing invigilator(s)')
+        for tid in invigs:
+            if tid in course_teachers.get(row.course_id, set()):
+                errors['invigilation'].append(f'{tid} invigilates own course {row.course_id}')
+            if not available.get((tid, row.timeslot_id), False):
+                errors['invigilation'].append(f'{tid} unavailable at {row.timeslot_id}')
+            if (tid, row.timeslot_id) in teacher_busy:
+                errors['invigilation'].append(f'{tid} has duplicate duty at {row.timeslot_id}')
+            teacher_busy.add((tid, row.timeslot_id))
+            teacher_load[tid] = teacher_load.get(tid, 0) + 1
+
+
 
