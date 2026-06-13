@@ -40,3 +40,4 @@ for room in room_rows:
             'student_count': student_count,
             'room_capacity': int(chosen['capacity']),
        })
+  return pd.DataFrame(allocations)
