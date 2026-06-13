@@ -48,3 +48,14 @@ exams = room_allocations.copy()
             if duties[tid] >= int(max_duties.get(tid, 0)):
                 continue
             candidates.append(tid)
+
+candidates.sort(key=lambda t: (duties[t], t))
+        assigned = candidates[:required]
+        if len(assigned) < required:
+            raise InvigilationError(
+                f'Could not assign {required} invigilators for {course_id} at {slot_id}. Found {len(assigned)}.'
+            )
+
+        for tid in assigned:
+            busy.add((tid, slot_id))
+            duties[tid] += 1
