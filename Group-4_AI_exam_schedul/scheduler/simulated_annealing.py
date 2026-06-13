@@ -74,3 +74,10 @@ for _ in range(iterations):
             if new_score < best_score:
                 best = dict(current)
                 best_score = new_score
+                
+        else:
+            current[course] = old_slot
+        temp *= cooling_rate
+        if temp < 0.01:
+            temp = initial_temp
+    return best
