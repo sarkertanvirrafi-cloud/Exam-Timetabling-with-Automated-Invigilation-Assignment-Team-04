@@ -15,3 +15,20 @@ def validate_all(
         'invigilation': [],
     }
     
+    slot_by_course = dict(zip(timetable['course_id'], timetable['timeslot_id']))
+
+    for student_id, group in dfs['enrollments'].groupby('student_id'):
+        courses = list(group['course_id'])
+        seen = {}
+        for course in courses:
+            slot = slot_by_course.get(course)
+            if not slot:
+                continue
+            if slot in seen:
+                errors['student_conflicts'].append(f'{student_id}: {seen[slot]} and {course} both at {slot}')
+            else:
+                seen[slot] = course
+
+
+
+    
