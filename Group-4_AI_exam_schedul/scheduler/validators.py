@@ -59,5 +59,12 @@ def validate_all(
             teacher_busy.add((tid, row.timeslot_id))
             teacher_load[tid] = teacher_load.get(tid, 0) + 1
 
+    for tid, load in teacher_load.items():
+        if load > int(teacher_max.get(tid, 0)):
+            errors['invigilation'].append(f'{tid}: {load}>{teacher_max.get(tid)} duties')
+    return errors
+
+def error_count(errors: dict[str, list[str]]) -> int:
+    return sum(len(v) for v in errors.values())
 
 
