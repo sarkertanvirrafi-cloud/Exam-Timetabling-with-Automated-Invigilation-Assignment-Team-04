@@ -68,3 +68,8 @@ rows.append({
             'invigilator_2': assigned[1] if len(assigned) > 1 else '',
             'invigilator_3': assigned[2] if len(assigned) > 2 else '',
         })
+roster = pd.DataFrame(rows).sort_values(['timeslot_id', 'course_id'])
+    load = teachers[['teacher_id', 'teacher_name', 'dept_code', 'max_duties']].copy()
+    load['total_duties'] = load['teacher_id'].map(duties).fillna(0).astype(int)
+    load = load[['teacher_id', 'teacher_name', 'dept_code', 'total_duties', 'max_duties']]
+    return roster, load
