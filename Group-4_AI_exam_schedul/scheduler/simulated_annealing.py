@@ -65,4 +65,12 @@ for _ in range(iterations):
  # Keep hard conflict feasibility as much as possible.
         if any(current.get(n) == new_slot for n in graph.get(course, [])):
             continue
-
+            
+        current[course] = new_slot
+        new_score = _score(current, graph, enrollments, timeslots)
+        delta = new_score - current_score
+        if delta <= 0 or random.random() < math.exp(-delta / max(temp, 1e-9)):
+            current_score = new_score
+            if new_score < best_score:
+                best = dict(current)
+                best_score = new_score
