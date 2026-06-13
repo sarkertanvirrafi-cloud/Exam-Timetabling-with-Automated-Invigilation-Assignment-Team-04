@@ -24,3 +24,27 @@ teacher_ids = list(teachers['teacher_id'])
     duties = defaultdict(int)
     busy = set()  # (teacher_id, timeslot_id)
     rows = []
+
+exams = room_allocations.copy()
+    exams['required_invigilators'] = exams['room_id'].map(req).fillna(1).astype(int)
+    exams = exams.sort_values(['required_invigilators', 'student_count'], ascending=[False, False])
+
+    for exam in exams.to_dict('records'):
+        course_id = exam['course_id']
+        slot_id = exam['timeslot_id']
+        required = int(exam['required_invigilators'])
+        assigned: list[str] = []
+
+        candidates = []
+        for tid in teacher_ids:
+            if tid in course_teacher_set.get(course_id, set()):
+                continue
+            if course_id in own_courses.get(tid, set()):
+                continue
+            if not available.get((tid, slot_id), False):
+                continue
+            if (tid, slot_id) in busy:
+                continue
+            if duties[tid] >= int(max_duties.get(tid, 0)):
+                continue
+            candidates.append(tid)
