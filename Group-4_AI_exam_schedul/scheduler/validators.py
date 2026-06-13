@@ -34,7 +34,6 @@ def validate_all(
         if len(group) > 1:
             errors['room_conflicts'].append(f'Room {room} used {len(group)} times at {slot}')
 
-
     for row in room_allocations.itertuples(index=False):
         if int(row.student_count) > int(row.room_capacity):
             errors['room_capacity'].append(f'{row.course_id}: {row.student_count}>{row.room_capacity}')
@@ -44,6 +43,7 @@ def validate_all(
     teacher_max = dict(zip(dfs['teachers']['teacher_id'], dfs['teachers']['max_duties']))
     teacher_busy = set()
     teacher_load = {tid: 0 for tid in teacher_max}
+
     
     for row in invigilation_roster.itertuples(index=False):
         invigs = [getattr(row, c) for c in ['invigilator_1', 'invigilator_2', 'invigilator_3'] if getattr(row, c, '')]
@@ -59,10 +59,12 @@ def validate_all(
             teacher_busy.add((tid, row.timeslot_id))
             teacher_load[tid] = teacher_load.get(tid, 0) + 1
 
+    
     for tid, load in teacher_load.items():
         if load > int(teacher_max.get(tid, 0)):
             errors['invigilation'].append(f'{tid}: {load}>{teacher_max.get(tid)} duties')
     return errors
+
 
 def error_count(errors: dict[str, list[str]]) -> int:
     return sum(len(v) for v in errors.values())
