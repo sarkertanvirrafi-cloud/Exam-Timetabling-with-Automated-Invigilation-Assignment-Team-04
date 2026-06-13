@@ -39,3 +39,4 @@ for room in room_rows:
             'room_name': chosen['room_name'],
             'student_count': student_count,
             'room_capacity': int(chosen['capacity']),
+       })
