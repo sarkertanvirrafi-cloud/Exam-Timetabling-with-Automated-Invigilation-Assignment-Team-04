@@ -44,4 +44,13 @@ def optimize_schedule(
     initial_temp: float = 100.0,
     cooling_rate: float = 0.995,
     seed: int = 42,
-
+) -> dict[str, str]:
+    """Improve DSATUR output without breaking hard conflicts."""
+    random.seed(seed)
+    slots = list(timeslots['timeslot_id'])
+    current = dict(initial_schedule)
+    current_score = _score(current, graph, enrollments, timeslots)
+    best = dict(current)
+    best_score = current_score
+    courses = list(current.keys())
+    temp = initial_temp
