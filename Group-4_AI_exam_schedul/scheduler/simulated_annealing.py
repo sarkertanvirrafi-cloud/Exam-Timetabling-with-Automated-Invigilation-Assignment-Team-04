@@ -54,3 +54,11 @@ def optimize_schedule(
     best_score = current_score
     courses = list(current.keys())
     temp = initial_temp
+    
+for _ in range(iterations):
+        course = random.choice(courses)
+        old_slot = current[course]
+        new_slot = random.choice(slots)
+        if new_slot == old_slot:
+            continue
+
