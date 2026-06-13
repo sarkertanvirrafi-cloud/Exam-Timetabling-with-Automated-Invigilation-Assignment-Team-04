@@ -47,4 +47,12 @@ def _normalize(dfs: dict[str, pd.DataFrame]) -> None:
     dfs['invigilation_rules']['required_invigilators'] = pd.to_numeric(
         dfs['invigilation_rules']['required_invigilators'], errors='coerce'
     ).fillna(1).astype(int)
+def course_student_counts(enrollments: pd.DataFrame) -> dict[str, int]:
+    return enrollments.groupby('course_id')['student_id'].nunique().to_dict()
+
+def course_teacher_map(course_teachers: pd.DataFrame) -> dict[str, set[str]]:
+    return course_teachers.groupby('course_id')['teacher_id'].apply(set).to_dict()
+
+def teacher_course_map(course_teachers: pd.DataFrame) -> dict[str, set[str]]:
+    return course_teachers.groupby('teacher_id')['course_id'].apply(set).to_dict()
 
