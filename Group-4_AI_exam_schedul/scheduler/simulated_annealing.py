@@ -61,4 +61,8 @@ for _ in range(iterations):
         new_slot = random.choice(slots)
         if new_slot == old_slot:
             continue
+            
+ # Keep hard conflict feasibility as much as possible.
+        if any(current.get(n) == new_slot for n in graph.get(course, [])):
+            continue
 
